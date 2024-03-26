@@ -1,3 +1,3 @@
-export default function HomePage() {
+export const HomePage = () => {
   return <h1>Home Page</h1>;
-}
+};
